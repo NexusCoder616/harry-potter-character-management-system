@@ -19,7 +19,7 @@ npm install
 Create a `.env` file in the root:
 
 ```env
-PORT=5000
+PORT=3001
 MONGO_URI=mongodb+srv://<user>:<password>@cluster.mongodb.net/harrypotter
 CLOUDINARY_CLOUD_NAME=your_cloud_name
 CLOUDINARY_API_KEY=your_api_key
@@ -74,7 +74,7 @@ Tokens expire in **7 days**.
 
 ## API Reference
 
-Base URL: `http://localhost:5000`
+Base URL: `http://localhost:3001`
 
 ### Auth
 
